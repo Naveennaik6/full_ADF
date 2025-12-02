@@ -1,0 +1,6 @@
+{
+	"my_global": {
+		"type": "int",
+		"value": 5
+	}
+}
